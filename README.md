@@ -11,7 +11,7 @@
 ---
 
 Welcome to my professional portfolio on GitHub!  
-Here you'll find a curated showcase of my skills, projects, and professional experience in game development, immersive technologies, and software engineering.
+Here you'll find a curated showcase of my expertise in game development, immersive technologies (VR/AR/XR), and software engineering.
 
 > 🎮 "Designing experiences is more than code—it's about bringing imagination to life."
 
@@ -31,84 +31,86 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ### 🕹️ VR Research and Technology Intern  
 **Delta Airlines**  
-📆 *Jan 2025 – Present*
+📆 *Jan 2025 – May 2025*
 
-- Authored documentation for Artec Leo 3D Scanner & Artec Studio 19 to improve 3D scanning accuracy
-- Prototyping VR simulations following best practices in immersive tech
-
+- Captured high-fidelity 3D models of aviation equipment using the Artec Leo 3D scanner; optimized high-poly assets in Artec Studio 19 and Blender for real-time use in VR simulations.
+- Authored detailed SOPs and documentation to standardize 3D scanning workflows and tool usage across engineering teams.
+- Developed two fully interactive XR training simulations using Unity and VR best practices to enhance pilot/crew training for 20,000+ end users.
 
 ### 🎮 Project Manager & Level Designer  
 **BooBoo Games**  
 📆 *Jul 2022 – Aug 2023*
 
-- Managed delivery of 10+ casual games for GDC conference
-- Streamlined testing and dev workflows across Unity & Unreal Engine
-
+- Successfully managed cross-functional teams (QA, devs, artists, animators) to deliver 10 casual and hyper-casual games showcased at GDC.
+- Implemented full SDLC and QA cycles, reducing post-release bugs and ensuring optimized performance across Unity and Unreal projects.
+- Designed engaging levels and multiplayer gameplay mechanics with immersive environments to boost player engagement metrics.
 
 ### 🧪 Senior Game Developer  
 **DesaniXR**  
 📆 *Dec 2021 – Mar 2022*
 
-- Mentored 5 Unity 3D dev interns, boosting team productivity
-- Designed Sword & Archery mechanics for “Wrath of Abhimanyu” project
-
+- Led mentoring sessions for 5 Unity interns, resulting in improved development speed and code quality.
+- Designed and implemented core Sword and Archery mechanics for the "Wrath of Abhimanyu" project with an intuitive and immersive control system.
+- Built a VR-based ground crew aviation simulation, integrating realistic interactions to meet client training goals.
 
 ### 🧠 Quality Analyst & Game Developer  
 **TimeLoop Technologies Pvt. Ltd.**  
 📆 *Nov 2020 – Dec 2021*
 
-- Delivered bug-free educational games for Baby Joy Joy YouTube channel
-- Improved user engagement with game logic and performance tuning
+- Developed and released 3 Unity-based educational games for the Baby Joy Joy YouTube channel, improving retention through interactive mini-games.
+- Delivered two polished training games—*Match the Cards* (2D) and *Maze Runner* (3D)—that passed all QA tests with zero critical bugs.
+- Enhanced engagement and retention through analytics-based gameplay improvements and continuous feature enhancements.
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 ### 🌌 InterGalactic Ranger – Unity | VR
-- Led design and development of a Unity-based VR game for Directed Research
-- Focused on immersive gameplay and cross-platform integration  
-🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
-📁 [View Source](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+- Directed end-to-end development of a VR game prototype as part of Directed Research at Cal Poly Pomona.
+- Led a team of 4, integrating immersive mechanics like jetpacking, object interaction, and shooting, using Unity XR for Meta Quest.  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
+📁 [Source Files](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
 
+### 🧟 Underworld’s Downfall – Unity | Procedural Top-Down Shooter
+- Developed gameplay systems, FX, and procedural level generation using Unity.
+- Focused on player interaction refinement, testing, and iterative level design to create replayable dungeon experiences.  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4)  
+📁 [Source Files](https://drive.google.com/file/d/1U7iosD7JtZHV6y5S5Jte_SgZIIF56ejO/view?usp=sharing)
 
-### ✋ VR Hand Interactions Tutorial – Unity | XR
-- Created a foundational tutorial exploring VR locomotion and interaction systems  
+### ✋ VR Hand Interactions Tutorial – Unity XR Toolkit
+- Designed a beginner-friendly tutorial for VR locomotion and hand interactions.
+- Covers grab, teleportation, and gesture systems, helpful for students and developers entering XR development.  
 📁 [View Source](https://drive.google.com/file/d/1jdIg_npAIipSH_69mVPNWzrZVjQ_qk_h/view?usp=sharing)
 
-
-### 🧟 Underworld’s Downfall – Unity | Top-Down Shooter
-- Developed mechanics, FX, and level design for procedurally generated dungeons  
-🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4)  
-📁 [View Source](https://drive.google.com/file/d/1U7iosD7JtZHV6y5S5Jte_SgZIIF56ejO/view?usp=sharing)
-
-
-### 👶 Baby Joy Joy Series – Unity | EdTech Games
-- Designed engaging games for young learners to support online educational content  
-🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
-
+### 👶 Baby Joy Joy Series – Unity | EdTech
+- Created 2D Unity games aligned with educational content on the Baby Joy Joy YouTube channel.
+- Balanced interactivity and age-appropriate design to improve learning engagement.  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
 ### 🃏 Match the Card – Unity | 2D Puzzle
-- Created a 2D memory card game with gameplay logic and smooth interactions  
-🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)  
-📁 [View Source](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
+- Built a memory-based card game in Unity featuring smooth interactions and responsive UI.
+- Designed to test and improve visual memory through engaging patterns.  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)  
+📁 [Source Files](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
 
+### 🧭 Maze Runner – Unity | 3D AI & Navigation
+- Developed a 3D maze game utilizing AI agents and Unity’s NavMesh for pathfinding.
+- Implemented basic animations and enemy logic for engaging gameplay loops.  
+🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)  
+📁 [Source Files](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharing)
 
-### 🧭 Maze Runner – Unity | AI & Pathfinding
-- Built a 3D AI-driven maze game using Unity primitives and animation  
-🎥 [Download Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)  
-📁 [View Source](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharingv)
+### ⚖️ Obesity Classification – Python | ML
+- Built a machine learning model that classifies obesity levels using 16+ biometric and behavioral features.
+- Applied data preprocessing, feature selection, and model tuning techniques.  
+📁 [Download Code](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
 
+### 🎧 BeatFusion – Java | AI-Driven Music Game *(In Progress)*
+- Developing a real-time music game that dynamically adapts gameplay to audio frequencies.
+- Utilizes AI pattern recognition to match beats with visual interactions.
 
-### ⚖️ Obesity Classification – Python | Machine Learning
-- Applied ML algorithms to predict obesity levels from 16+ attributes  
-📁 [Download Source Code](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
-
-
-### 🎧 BeatFusion – Java | AI-Powered Game
-- Developing a music-responsive game combining AI and real-time gameplay mechanics
-
-### 💎 Vallabhi Jewelers – MEAN Stack | Full-Stack Dev
-- Built a responsive site with live video chat functionality for customer engagement  
+### 💎 Vallabhi Jewelers – MEAN Stack | Full Stack App
+- Created a responsive web app with real-time chat and integrated video calling using MEAN stack technologies.
+- Enabled virtual customer support and live consultation experiences.  
 📁 [View Source](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
 ---
@@ -135,10 +137,11 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 
 ## 🧩 Specializations
 
-- Game Development & Design (Unity, Unreal)  
-- VR/AR Development & Research  
-- Web Development (MEAN Stack)  
-- Interactive & Immersive Systems  
+- Game Development & Design (Unity, Unreal Engine)  
+- VR/AR/XR Development and Research  
+- Full Stack Web Development (MEAN Stack)  
+- Machine Learning & Immersive Simulations  
+- Training & Mentorship in Game Dev and VR Tech  
 
 ---
 
@@ -154,4 +157,3 @@ Here you'll find a curated showcase of my skills, projects, and professional exp
 <p align="center">
   <b>Thanks for visiting! Let’s create, explore, and innovate through immersive tech 🚀</b>
 </p>
-
