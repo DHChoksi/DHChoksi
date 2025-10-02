@@ -69,7 +69,7 @@ Here you'll find a curated showcase of my expertise in game development, immersi
 - Directed end-to-end development of a VR game prototype as part of Directed Research at Cal Poly Pomona.
 - Led a team of 4, integrating immersive mechanics like jetpacking, object interaction, and shooting, using Unity XR for Meta Quest.  
 🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
-📁 (https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://github.com/DHChoksi/IGR_Game.git)
+📁 https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://github.com/DHChoksi/IGR_Game.git
 
 ### Underworld’s Downfall – Unity | Procedural Top-Down Shooter
 - Developed gameplay systems, FX, and procedural level generation using Unity.
