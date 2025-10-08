@@ -65,7 +65,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ### InterGalactic Ranger — Unity | VR  
 - Directed the full development of a VR game prototype as part of research at Cal Poly Pomona.  
 - Integrated locomotion, jetpack mechanics, and object interaction systems using Unity XR.  
-[Watch Video](https://drive.google.com/drive/my-drive?q=type:video%20parent:0ABnAzQc1kefpUk9PVA) | [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4) | [Source Files](https://github.com/DHChoksi/IGR_Game.git) | [Prototype](https://github.com/DHChoksi/IGR_Prototyping)
+[Watch Video](https://drive.google.com/file/d/1fEtRDZxa22noznYq27VQZPCWjQrUZMo8/view?usp=sharing) | [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4) | [Source Files](https://github.com/DHChoksi/IGR_Game.git) | [Prototype](https://github.com/DHChoksi/IGR_Prototyping)
 
 ### Underworld’s Downfall — Unity | Procedural Top-Down Shooter  
 - Built procedural level generation, combat systems, and particle FX for replayable dungeon gameplay.  
