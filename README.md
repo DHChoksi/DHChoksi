@@ -13,7 +13,7 @@
 Welcome to my professional portfolio.  
 I specialize in **game design, immersive technologies (VR/AR/XR), and interactive software engineering**, building experiences that merge creativity and technology.
 
-> "Designing experiences is more than code—it's about bringing imagination to life."
+> "Designing experiences is more than code, it's about bringing imagination to life."
 
 ---
 
