@@ -1,6 +1,6 @@
 <!-- Dhruvi H. Choksi | Game & VR Portfolio -->
 <h1 align="center">Dhruvi H. Choksi</h1>
-<h3 align="center"><i>Game Development | Virtual Reality | Software Engineering</i></h3>
+<h3 align="center"><i>Game Development | Extended Reality | Software Engineering</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VR%20Development-Immersive-blueviolet?style=flat-square&logo=unity" />
@@ -140,8 +140,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)  
 **LinkedIn:** [linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)  
-**Google Drive Projects:** [Portfolio Drive Folder](https://drive.google.com/drive/folders/1msM910t1FX0q2dbO-GChQ9i07t6dP5x0?usp=sharing)  
-**Resume:** [View Resume](https://docs.google.com/document/d/13ItqFxINlQOiV6aQvgIGoNowjPDco8CaT5hn3Okpz9g/edit?usp=sharing)
+**Resume:** [View Resume](https://docs.google.com/document/d/18h5sr3vMYYJeZB2gl_0Vna8HBhrN4Vm-F0o-W1PDjZY/edit?usp=sharing)
 
 ---
 
