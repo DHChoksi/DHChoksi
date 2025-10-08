@@ -29,16 +29,17 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Experience
 
+### Junior Technical Game Designer  
+**Elite Neuro** — Remote, CA | Jun 2025 – Present  
+- Supported the design and development of a **complex VR-based cognitive training system**, contributing to gameplay mechanics, 3D asset integration, and interaction logic using **Unity** and **Blender**.  
+- Collaborated with developers, designers, and researchers to prototype neuro-interactive modules optimized for visual clarity and real-time performance.  
+- Documented workflows, technical specifications, and UX decisions to streamline future AR/VR iterations and ensure consistency across builds.
+  
 ### VR Research and Technology Intern  
 **Delta Airlines** — Atlanta, GA | Jan 2025 – May 2025  
 - Captured high-fidelity 3D models using the **Artec Leo LiDAR scanner** and optimized assets in **Artec Studio 19** and **Blender** for VR simulations.  
 - Authored SOPs and documentation to standardize 3D scanning workflows across engineering teams.  
 - Developed two interactive **XR training simulations** in Unity, enhancing learning outcomes for over 20,000 users.
-
-### Junior Technical Game Designer  
-**Elite Neuro** — Remote, CA | Jun 2025 – Present  
-- Designed and integrated immersive **VR gameplay systems** in Unity, focusing on mechanics, lighting, and 3D asset pipelines.  
-- Collaborated on UX design and technical documentation to ensure seamless production workflows.
 
 ### Project Manager & Level Designer  
 **BooBoo Games** — Ahmedabad, India | Jul 2022 – Aug 2023  
