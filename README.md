@@ -1,17 +1,17 @@
-<!-- Game & VR Portfolio Intro -->
+<!-- Dhruvi H. Choksi | Game & VR Portfolio -->
 <h1 align="center">Dhruvi H. Choksi</h1>
 <h3 align="center"><i>Game Development | Virtual Reality | Software Engineering</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VR%20Development-Immersive-blueviolet?style=flat-square&logo=unity" />
   <img src="https://img.shields.io/badge/Game%20Design-Unity%20%26%20Unreal-informational?style=flat-square&logo=unrealengine" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-Multidisciplinary-critical?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Multidisciplinary-critical?style=flat-square&logo=github" />
 </p>
 
 ---
 
-Welcome to my professional portfolio on GitHub!  
-Here you'll find a curated showcase of my expertise in game development, immersive technologies (VR/AR/XR), and software engineering.
+Welcome to my professional portfolio.  
+I specialize in **game design, immersive technologies (VR/AR/XR), and interactive software engineering**, building experiences that merge creativity and technology.
 
 > "Designing experiences is more than code—it's about bringing imagination to life."
 
@@ -19,141 +19,133 @@ Here you'll find a curated showcase of my expertise in game development, immersi
 
 ## Education
 
-📍 **California State Polytechnic University, Pomona**  
-🎓 *MS in Computer Science* — *Sep 2023 – May 2025*
+**California State Polytechnic University, Pomona**  
+Master of Science in Computer Science (2023 – 2025)
 
-📍 **Atmiya Institute of Technology and Science, India**  
-🎓 *BE in Information Technology* — *Mar 2016 – Mar 2020*
+**Atmiya Institute of Technology and Science, India**  
+Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ---
 
 ## Experience
 
 ### VR Research and Technology Intern  
-**Delta Airlines**  
-📆 *Jan 2025 – May 2025*
+**Delta Airlines** — Atlanta, GA | Jan 2025 – May 2025  
+- Captured high-fidelity 3D models using the **Artec Leo LiDAR scanner** and optimized assets in **Artec Studio 19** and **Blender** for VR simulations.  
+- Authored SOPs and documentation to standardize 3D scanning workflows across engineering teams.  
+- Developed two interactive **XR training simulations** in Unity, enhancing learning outcomes for over 20,000 users.
 
-- Captured high-fidelity 3D models of aviation equipment using the Artec Leo 3D scanner; optimized high-poly assets in Artec Studio 19 and Blender for real-time use in VR simulations.
-- Authored detailed SOPs and documentation to standardize 3D scanning workflows and tool usage across engineering teams.
-- Developed two fully interactive XR training simulations using Unity and VR best practices to enhance pilot/crew training for 20,000+ end users.
+### Junior Technical Game Designer  
+**Elite Neuro** — Remote, CA | Jun 2025 – Present  
+- Designed and integrated immersive **VR gameplay systems** in Unity, focusing on mechanics, lighting, and 3D asset pipelines.  
+- Collaborated on UX design and technical documentation to ensure seamless production workflows.
 
 ### Project Manager & Level Designer  
-**BooBoo Games**  
-📆 *Jul 2022 – Aug 2023*
-
-- Successfully managed cross-functional teams (QA, devs, artists, animators) to deliver 10 casual and hyper-casual games showcased at GDC.
-- Implemented full SDLC and QA cycles, reducing post-release bugs and ensuring optimized performance across Unity and Unreal projects.
-- Designed engaging levels and multiplayer gameplay mechanics with immersive environments to boost player engagement metrics.
+**BooBoo Games** — Ahmedabad, India | Jul 2022 – Aug 2023  
+- Managed cross-functional teams across QA, development, and art to deliver 10 Unity/Unreal projects.  
+- Used **Unity, C#, and OpenCV** for physics and rendering optimization, overseeing production from concept to deployment.  
+- Designed multiplayer levels and gameplay mechanics for enhanced engagement and retention.
 
 ### Senior Game Developer  
-**DesaniXR**  
-📆 *Dec 2021 – Mar 2022*
+**DesaniXR** — Remote, India | Dec 2021 – Mar 2022  
+- Led development of **AR/VR applications** using Unity and Unreal Engine.  
+- Implemented 3D environments, materials, and physics systems to achieve optimal visual and performance results.  
+- Mentored interns in Unity best practices and code optimization.
 
-- Led mentoring sessions for 5 Unity interns, resulting in improved development speed and code quality.
-- Designed and implemented core Sword and Archery mechanics for the "Wrath of Abhimanyu" project with an intuitive and immersive control system.
-- Built a VR-based ground crew aviation simulation, integrating realistic interactions to meet client training goals.
-
-### Quality Analyst & Game Developer  
-**TimeLoop Technologies Pvt. Ltd.**  
-📆 *Nov 2020 – Dec 2021*
-
-- Developed and released 3 Unity-based educational games for the Baby Joy Joy YouTube channel, improving retention through interactive mini-games.
-- Delivered two polished training games—*Match the Cards* (2D) and *Maze Runner* (3D)—that passed all QA tests with zero critical bugs.
-- Enhanced engagement and retention through analytics-based gameplay improvements and continuous feature enhancements.
+### Game Developer & Quality Analyst  
+**TimeLoop Technologies Pvt. Ltd.** — Remote, India | Nov 2020 – Dec 2021  
+- Developed multi-platform Unity games for **PC, Android, iOS, and WebGL**, adhering to OOP design principles.  
+- Integrated 2D/3D assets and UI systems while maintaining Git-based version control and QA documentation.
 
 ---
 
 ## Projects
 
-### InterGalactic Ranger – Unity | VR
-- Directed end-to-end development of a VR game prototype as part of Directed Research at Cal Poly Pomona.
-- Led a team of 4, integrating immersive mechanics like jetpacking, object interaction, and shooting, using Unity XR for Meta Quest.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4)  
-📁 [Source Files](https://github.com/DHChoksi/IGR_Game.git)
+### InterGalactic Ranger — Unity | VR  
+- Directed the full development of a VR game prototype as part of research at Cal Poly Pomona.  
+- Integrated locomotion, jetpack mechanics, and object interaction systems using Unity XR.  
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4) | [Source Files](https://github.com/DHChoksi/IGR_Game.git) | [Prototype](https://github.com/DHChoksi/IGR_Prototyping)
 
-### Underworld’s Downfall – Unity | Procedural Top-Down Shooter
-- Developed gameplay systems, FX, and procedural level generation using Unity.
-- Focused on player interaction refinement, testing, and iterative level design to create replayable dungeon experiences.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4)  
-📁 [Source Files](https://drive.google.com/file/d/1U7iosD7JtZHV6y5S5Jte_SgZIIF56ejO/view?usp=sharing)
+### Underworld’s Downfall — Unity | Procedural Top-Down Shooter  
+- Built procedural level generation, combat systems, and particle FX for replayable dungeon gameplay.  
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4) | [Source Files](https://github.com/DHChoksi/Underworld_s_downfall)
 
-### VR Hand Interactions Tutorial – Unity XR Toolkit
-- Designed a beginner-friendly tutorial for VR locomotion and hand interactions.
-- Covers grab, teleportation, and gesture systems, helpful for students and developers entering XR development.  
-📁 [View Source](https://drive.google.com/file/d/1jdIg_npAIipSH_69mVPNWzrZVjQ_qk_h/view?usp=sharing)
+### VR Hand Interactions Tutorial — Unity XR Toolkit  
+- Created a developer-focused tutorial for VR locomotion, object grabbing, and teleportation systems.  
+[Source Files](https://github.com/DHChoksi/VRFunShooter)
 
-### Baby Joy Joy Series – Unity | EdTech
-- Created 2D Unity games aligned with educational content on the Baby Joy Joy YouTube channel.
-- Balanced interactivity and age-appropriate design to improve learning engagement.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
+### Baby Joy Joy Series — Unity | EdTech  
+- Developed educational 2D Unity games for the Baby Joy Joy YouTube channel, integrating animation and interaction.  
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
 
-### Match the Card – Unity | 2D Puzzle
-- Built a memory-based card game in Unity featuring smooth interactions and responsive UI.
-- Designed to test and improve visual memory through engaging patterns.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4)  
-📁 [Source Files](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
+### Match the Card — Unity | 2D Puzzle  
+- Designed and implemented a memory card game with responsive UI and smooth animations.  
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4) | [Source Files](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
 
-### Maze Runner – Unity | 3D AI & Navigation
-- Developed a 3D maze game utilizing AI agents and Unity’s NavMesh for pathfinding.
-- Implemented basic animations and enemy logic for engaging gameplay loops.  
-🎥 [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4)  
-📁 [Source Files](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharing)
+### Maze Runner — Unity | 3D AI & Navigation  
+- Implemented AI agents and Unity’s NavMesh for dynamic maze navigation and pathfinding.  
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4) | [Source Files](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharing)
 
-### Obesity Classification – Python | ML
-- Built a machine learning model that classifies obesity levels using 16+ biometric and behavioral features.
-- Applied data preprocessing, feature selection, and model tuning techniques.  
-📁 [Download Code](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
+### HTML Games — Racing Car | BrickBreaker  
+- Created lightweight browser-based games using HTML, CSS, and JavaScript.  
+[Source Files](https://github.com/DHChoksi/HTMLGames_Training)
 
-### BeatFusion – Java | AI-Driven Music Game *(In Progress)*
-- Developing a real-time music game that dynamically adapts gameplay to audio frequencies.
-- Utilizes AI pattern recognition to match beats with visual interactions.
+### Obesity Classification — Python | Machine Learning  
+- Developed a classification model using biometric and behavioral data to predict obesity levels.  
+[Source Files](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
 
-### Vallabhi Jewelers – MEAN Stack | Full Stack App
-- Created a responsive web app with real-time chat and integrated video calling using MEAN stack technologies.
-- Enabled virtual customer support and live consultation experiences.  
-📁 [View Source](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
+### BeatFusion (Moodify) — Java | AI-Driven Music Game *(In Progress)*  
+- Designing a rhythm-based game that dynamically syncs gameplay with real-time audio frequency patterns.  
+[Source Files](https://github.com/DHChoksi/Moodify)
+
+### Vallabhi Jewelers — MEAN Stack | Full Stack App  
+- Built a responsive MEAN stack web app with real-time chat and video support for virtual consultations.  
+[Source Files](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
 ---
 
 ## Tech Stack & Tools
 
-### Programming Languages & Engines
+**Programming & Engines**  
 <p>
   <img src="https://img.shields.io/badge/Unity_C%23-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
-### Tools & Platforms
+**Tools & Platforms**  
 <p>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artec_Leo_3D_Scanner-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artec_Studio_19-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artec_Leo_3D_Scanner-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artec_Studio_19-673AB7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-EE4C2C?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## Specializations
 
-- Game Development & Design (Unity, Unreal Engine)  
-- VR/AR/XR Development and Research  
+- Game Design & Development (Unity, Unreal Engine)  
+- VR/AR/XR Application Engineering  
 - Full Stack Web Development (MEAN Stack)  
-- Machine Learning & Immersive Simulations  
-- Training & Mentorship in Game Dev and VR Tech  
+- Machine Learning & Immersive Simulation Systems  
+- R&D and Mentorship in XR Technologies  
 
 ---
 
 ## Contact & Links
 
-📧 [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhchoksi)  
-📁 [Google Drive Projects](https://drive.google.com/drive/folders/1msM910t1FX0q2dbO-GChQ9i07t6dP5x0?usp=sharing)  
-📄 [Resume](https://docs.google.com/document/d/13ItqFxINlQOiV6aQvgIGoNowjPDco8CaT5hn3Okpz9g/edit?usp=sharing)
+**Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)  
+**LinkedIn:** [linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)  
+**Google Drive Projects:** [Portfolio Drive Folder](https://drive.google.com/drive/folders/1msM910t1FX0q2dbO-GChQ9i07t6dP5x0?usp=sharing)  
+**Resume:** [View Resume](https://docs.google.com/document/d/13ItqFxINlQOiV6aQvgIGoNowjPDco8CaT5hn3Okpz9g/edit?usp=sharing)
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting! Let’s create, explore, and innovate through immersive tech </b>
+  <strong>Thank you for visiting.</strong><br>
+  Let's collaborate, innovate, and build immersive worlds together.
 </p>
