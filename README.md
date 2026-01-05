@@ -98,6 +98,8 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 
 ## 3D Games & AI Systems
+### Baby Joy Joy -Jack in the Box
+[APK](https://joy-joy-jack-in-the-box-ios.soft112.com/) 
 
 ### Maze Runner AI FPS — *Unity | 3D FPS with Custom AI*  
 - First-person 3D maze shooter featuring **enemy AI without NavMesh**.  
