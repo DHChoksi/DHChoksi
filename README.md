@@ -29,7 +29,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Experience
 
-### Junior Technical Game Designer  
+### Technical Game Designer  
 **Elite Neuro** — Remote, CA | Jun 2025 – Present  
 - Supported the design and development of a **complex VR-based cognitive training system**, contributing to gameplay mechanics, 3D asset integration, and interaction logic using **Unity** and **Blender**.  
 - Collaborated with developers, designers, and researchers to prototype neuro-interactive modules optimized for visual clarity and real-time performance.  
@@ -62,18 +62,58 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Projects
 
-### InterGalactic Ranger — Unity | VR  
-- Directed the full development of a VR game prototype as part of research at Cal Poly Pomona.  
-- Integrated locomotion, jetpack mechanics, and object interaction systems using Unity XR.  
-[Watch Video](https://drive.google.com/file/d/1fEtRDZxa22noznYq27VQZPCWjQrUZMo8/view?usp=sharing) | [Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4) | [Source Files](https://github.com/DHChoksi/IGR_Game.git) | [Prototype](https://github.com/DHChoksi/IGR_Prototyping)
+## Extended Reality (XR / VR / MR)
 
-### Underworld’s Downfall — Unity | Procedural Top-Down Shooter  
-- Built procedural level generation, combat systems, and particle FX for replayable dungeon gameplay.  
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4) | [Source Files](https://github.com/DHChoksi/Underworld_s_downfall)
+### Intergalactic Ranger (IGR) — *Unity | VR Research Game*  
+- Research-driven VR gameplay experience developed as part of a **graduate thesis**.  
+- Implements **jetpack locomotion, web-swinging traversal, combat systems, environmental hazards (black holes), and zero-gravity navigation**.  
+- Designed to study **VR comfort, immersion, and interaction complexity** through controlled gameplay mechanics.
+[Watch Video](https://drive.google.com/file/d/1fEtRDZxa22noznYq27VQZPCWjQrUZMo8/view?usp=sharing) | 
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/underworld.mp4) | 
+[Source Files](https://github.com/DHChoksi/IGR_Game.git) | 
+[Prototype](https://github.com/DHChoksi/IGR_LocomotionPrototype)
 
-### VR Hand Interactions Tutorial — Unity XR Toolkit  
-- Created a developer-focused tutorial for VR locomotion, object grabbing, and teleportation systems.  
-[Source Files](https://github.com/DHChoksi/VRFunShooter)
+### VR Fun Boomer — *Unity | VR Gameplay*  
+- Experimental VR project focusing on **interactive mechanics and player feedback loops**.  
+- Emphasizes **rapid prototyping** and VR interaction design.
+[Source Files](https://github.com/DHChoksi/VRFunBoomer)
+
+### Gorillazila — *Unity | Mixed Reality (MR)*  
+- Mixed Reality experience combining **real-world spatial awareness with virtual gameplay elements**.  
+- Explores **MR interaction, spatial anchoring, and immersive gameplay** blending physical and digital environments.
+[Source Code](https://github.com/DHChoksi/Gorillazila)
+
+### Floor Is Lava – Treasure Hunt — *Unity | MR Multiplayer*  
+- Multiplayer MR experience featuring **environmental hazards, collaborative gameplay, and spatial navigation**.  
+- Designed to test **player coordination and shared mixed-reality spaces**.
+[Source Code](https://github.com/DHChoksi/FloorIsLavaTreasureHunt)
+
+---
+
+## 3D Games & AI Systems
+
+### Maze Runner AI FPS — *Unity | 3D FPS with Custom AI*  
+- First-person 3D maze shooter featuring **enemy AI without NavMesh**.  
+- Implements **raycast-based vision, state machines, obstacle avoidance, and combat behavior**.  
+- Focused on **AI perception, decision-making, and emergent navigation**.
+[Source Code](https://github.com/DHChoksi/UnityTrainingAIBotGAme_MazeRunner) |
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4) 
+
+### Tic Tac Toe AI — *Unity | 3D AI Logic*  
+- Built for a **foundation eligibility assessment** to demonstrate AI reasoning.  
+- Features **rule-based strategic AI** (win, block, center, corners) without Minimax.  
+- Highlights **clean game-state management and decision prioritization**.
+[Source Code](https://github.com/DHChoksi/TicTacToe_AI)
+
+### Underworld’s Downfall — *Unity | 3D Top-Down Shooter*  
+- Procedural top-down shooter with **dynamic level generation, combat systems, and visual effects**.  
+- Designed for **replayability and system-driven gameplay flow**.
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4) | 
+[Source Files](https://github.com/DHChoksi/Underworld_s_downfall)
+
+---
+
+## 2D Games (Unity)
 
 ### Baby Joy Joy Series — Unity | EdTech  
 - Developed educational 2D Unity games for the Baby Joy Joy YouTube channel, integrating animation and interaction.  
@@ -81,23 +121,39 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ### Match the Card — Unity | 2D Puzzle  
 - Designed and implemented a memory card game with responsive UI and smooth animations.  
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4) | [Source Files](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
-
-### Maze Runner — Unity | 3D AI & Navigation  
-- Implemented AI agents and Unity’s NavMesh for dynamic maze navigation and pathfinding.  
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4) | [Source Files](https://drive.google.com/file/d/1kLxz66_dLjPkyIyo-DkG7Vt__NA0ak2E/view?usp=sharing)
+[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MatchCards.mp4) |
+[Source Files](https://drive.google.com/file/d/1CSPq5i6pDNOYil6LtDMSkRA9MJsvaidP/view?usp=sharing)
 
 ### HTML Games — Racing Car | BrickBreaker  
 - Created lightweight browser-based games using HTML, CSS, and JavaScript.  
 [Source Files](https://github.com/DHChoksi/HTMLGames_Training)
 
+---
+
+## Unity Custom APIs & Systems
+
+### Dynamic Audio Manager API — *Unity | Custom Audio System*  
+- Modular audio management system supporting **BGM, SFX, UI SFX, pooling, and runtime control**.  
+- Designed as a **reusable Unity API** with clean architecture and extensibility.
+[Source Code](https://github.com/DHChoksi/DynamicAudioManager_API)
+
+### Haptic Manager API — *Unity | XR Haptics System*  
+- Platform-agnostic haptics framework with **ScriptableObject-driven haptic profiles**.  
+- Supports **single-hand and dual-hand feedback** and is easily extensible to new XR devices.
+[Source Code](https://github.com/DHChoksi/HapticManager_API)
+
+---
+
+## Other Projects
+
+### Moodify (BeatFusion) — *Java | AI-Driven Music Application*  
+- Java-based music application exploring **mood-aware audio processing and interaction**.  
+- Focuses on syncing **user experience with dynamic audio behavior**.
+[Source Files](https://github.com/DHChoksi/Moodify)
+
 ### Obesity Classification — Python | Machine Learning  
 - Developed a classification model using biometric and behavioral data to predict obesity levels.  
 [Source Files](https://github.com/DHChoksi/Portfolio/raw/main/Assets/ObeysityClassification-main.zip)
-
-### BeatFusion (Moodify) — Java | AI-Driven Music Game *(In Progress)*  
-- Designing a rhythm-based game that dynamically syncs gameplay with real-time audio frequency patterns.  
-[Source Files](https://github.com/DHChoksi/Moodify)
 
 ### Vallabhi Jewelers — MEAN Stack | Full Stack App  
 - Built a responsive MEAN stack web app with real-time chat and video support for virtual consultations.  
