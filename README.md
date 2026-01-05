@@ -104,7 +104,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 - Implements **raycast-based vision, state machines, obstacle avoidance, and combat behavior**.  
 - Focused on **AI perception, decision-making, and emergent navigation**.
 [Source Code](https://github.com/DHChoksi/UnityTrainingAIBotGAme_MazeRunner) |
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/MazeRunner1.mp4.mp4) 
+[Watch Video](https://drive.google.com/file/d/18SFYmhxIBSbnrn_kowhsLgylBWOFEGp1/view?usp=sharing) 
 
 ### Tic Tac Toe AI — *Unity | 3D AI Logic*  
 - Built for a **foundation eligibility assessment** to demonstrate AI reasoning.  
