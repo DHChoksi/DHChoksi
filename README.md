@@ -10,8 +10,11 @@
 
 ---
 
-Welcome to my professional portfolio.  
-I specialize in **game design, immersive technologies (VR/AR/XR), and interactive software engineering**, building experiences that merge creativity and technology.
+## About Me
+
+**Gameplay Engineer**, **Technical Game Designer** and **XR Developer** with hands-on experience building **interactive gameplay systems** and **immersive XR applications** using **Unity and Unreal Engine** across **PC, mobile, and VR platforms**. Specialized in **C# gameplay programming, XR interactions, AI-driven mechanics, multiplayer systems, and performance optimization**, with a strong QA foundation that enables early identification of gameplay issues and delivery of **stable, production-ready builds**. Experienced in collaborating with **cross-functional teams** (engineering, design, research, and QA) to develop **scalable systems** for enterprise XR training, research-driven VR gameplay, and real-time interactive simulations.
+
+---
 
 > "Designing experiences is more than code, it's about bringing imagination to life."
 
@@ -31,32 +34,36 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ### Technical Game Designer  
 **Elite Neuro** — Remote, CA | Jun 2025 – Present  
-- Supported the design and development of a **complex VR-based cognitive training system**, contributing to gameplay mechanics, 3D asset integration, and interaction logic using **Unity** and **Blender**.  
-- Collaborated with developers, designers, and researchers to prototype neuro-interactive modules optimized for visual clarity and real-time performance.  
-- Documented workflows, technical specifications, and UX decisions to streamline future AR/VR iterations and ensure consistency across builds.
-  
+- **Developed and optimized interactive VR gameplay systems** in Unity using C#, focusing on performance, scalability, and immersive interaction design for cognitive training applications.  
+- **Integrated and optimized 3D assets, lighting, and rendering pipelines**, improving runtime stability and visual clarity across multiple VR form factors.  
+- **Collaborated with cross-functional teams** (engineers, designers, researchers) to prototype and iterate on XR modules, incorporating user feedback to improve interaction flow and usability.  
+- **Authored technical documentation and UX guidelines**, reducing onboarding time for new contributors and ensuring consistency across XR builds.
+
 ### VR Research and Technology Intern  
-**Delta Airlines** — Atlanta, GA | Jan 2025 – May 2025  
-- Captured high-fidelity 3D models using the **Artec Leo LiDAR scanner** and optimized assets in **Artec Studio 19** and **Blender** for VR simulations.  
-- Authored SOPs and documentation to standardize 3D scanning workflows across engineering teams.  
-- Developed two interactive **XR training simulations** in Unity, enhancing learning outcomes for over 20,000 users.
+**Delta Air Lines** — Atlanta, GA | Jan 2025 – May 2025  
+- **Designed and developed two physics-based XR training simulations** in Unity (C#) used by **2,000+ operational staff**, supporting enterprise onboarding and safety training initiatives.  
+- **Led pre-production planning, asset integration, and technical support**, ensuring XR applications met performance, usability, and learning objectives.  
+- **Coordinated and executed large-scale XR simulation testing events** spanning **3 days and 200 participants**, collecting user feedback and driving data-informed design improvements.  
+- **Managed and optimized LiDAR-based asset pipelines** using **Artec Leo, Artec Studio, and Blender**, maintaining version-controlled XR environments and UI systems.
 
 ### Project Manager & Level Designer  
 **BooBoo Games** — Ahmedabad, India | Jul 2022 – Aug 2023  
-- Managed cross-functional teams across QA, development, and art to deliver 10 Unity/Unreal projects.  
-- Used **Unity, C#, and OpenCV** for physics and rendering optimization, overseeing production from concept to deployment.  
-- Designed multiplayer levels and gameplay mechanics for enhanced engagement and retention.
+- **Led end-to-end development of 10+ Unity and Unreal projects**, coordinating QA, development, and art teams to deliver on schedule across mobile, PC, and WebGL platforms.  
+- **Designed and integrated gameplay mechanics, UI/UX systems, and multiplayer levels**, improving player engagement and retention metrics.  
+- **Optimized physics and rendering systems** using Unity, C#, and OpenCV, ensuring technical accuracy while maintaining creative intent.
 
 ### Senior Game Developer  
 **DesaniXR** — Remote, India | Dec 2021 – Mar 2022  
-- Led development of **AR/VR applications** using Unity and Unreal Engine.  
-- Implemented 3D environments, materials, and physics systems to achieve optimal visual and performance results.  
-- Mentored interns in Unity best practices and code optimization.
+- **Developed and deployed multi-platform games and XR applications** using Unity and Unreal Engine, introducing new features and improving existing workflows.  
+- **Built and integrated 3D environments, animations, and interaction systems**, collaborating closely with artists and animators to deliver polished, production-quality experiences.  
+- **Mentored junior developers and interns**, improving code quality, performance awareness, and Unity best practices across the team.
 
 ### Game Developer & Quality Analyst  
 **TimeLoop Technologies Pvt. Ltd.** — Remote, India | Nov 2020 – Dec 2021  
-- Developed multi-platform Unity games for **PC, Android, iOS, and WebGL**, adhering to OOP design principles.  
-- Integrated 2D/3D assets and UI systems while maintaining Git-based version control and QA documentation.
+- **Designed, developed, tested, and debugged 2D and 3D games** for **PC, Android, iOS, and WebGL** using Unity and C# with object-oriented programming principles.  
+- **Integrated analytics and telemetry systems** to track player behavior and retention, contributing to a **~20% improvement in user engagement**.  
+- **Implemented in-app purchases (IAP) and ad monetization systems** (banner, rewarded ads), supporting scalable monetization strategies.  
+- **Collaborated in Agile development cycles**, maintaining version control, QA documentation, and stable release pipelines.
 
 ---
 
@@ -163,33 +170,88 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Tech Stack & Tools
 
-**Programming & Engines**  
+### Programming Languages & Game Engines
 <p>
-  <img src="https://img.shields.io/badge/Unity_C%23-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity_(C%23)-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**Tools & Platforms**  
+---
+
+### XR Platforms & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artec_Leo_3D_Scanner-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artec_Studio_19-673AB7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-EE4C2C?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity_XR-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge&logo=virtualreality&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebXR-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_SDK-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Horizon_Worlds-0A66C2?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
 ---
 
-## Specializations
+### Gameplay, AI & Systems
+<p>
+  <img src="https://img.shields.io/badge/Gameplay_Systems-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Logic_&_State_Machines-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multiplayer_(Photon)-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Procedural_Content-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance_Optimization-607D8B?style=for-the-badge"/>
+</p>
 
-- Game Design & Development (Unity, Unreal Engine)  
-- VR/AR/XR Application Engineering  
-- Full Stack Web Development (MEAN Stack)  
-- Machine Learning & Immersive Simulation Systems  
-- R&D and Mentorship in XR Technologies  
+---
+
+### Tools, Pipelines & Asset Workflow
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Creative_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artec_Leo_LiDAR-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artec_Studio-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+### Development, QA & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Git-EE4C2C?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile_Development-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QA_&_Debugging-3F51B5?style=for-the-badge"/>
+</p>
+---
+
+## Skills
+
+### Game Development & XR
+- Gameplay systems design, AI-driven mechanics, XR interaction design  
+- VR / AR / MR development, immersive simulation systems  
+- Multiplayer fundamentals (Photon, Meta SDK), scalable gameplay architecture  
+
+### Programming & Engines
+- **Unity (C#)**, **Unreal Engine**, Object-Oriented Programming  
+- Java, Python, JavaScript  
+- OpenCV, performance optimization, rendering pipelines  
+
+### XR Platforms & Frameworks
+- Unity XR, OpenXR, WebXR  
+- Meta SDK, Horizon Worlds  
+- PC, Mobile, Standalone VR (Quest)
+
+### Tools & Pipelines
+- Blender, Adobe Creative Suite  
+- Artec Leo LiDAR Scanner, Artec Studio  
+- Version control (Git), asset pipeline management  
+- Project management tools (Jira, Trello)
+
+### Collaboration & Production
+- Cross-functional team collaboration  
+- Technical documentation & SOP creation  
+- Research-driven prototyping and UX iteration  
+- Agile development and QA workflows
 
 ---
 
