@@ -98,8 +98,6 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 
 ## 3D Games & AI Systems
-### Baby Joy Joy -Jack in the Box
-[APK](https://joy-joy-jack-in-the-box-ios.soft112.com/) 
 
 ### Maze Runner AI FPS — *Unity | 3D FPS with Custom AI*  
 - First-person 3D maze shooter featuring **enemy AI without NavMesh**.  
@@ -122,11 +120,17 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ---
 
-## 2D Games (Unity)
+## 2D Games (Unity/HTML)
 
-### Baby Joy Joy Series — Unity | EdTech  
-- Developed educational 2D Unity games for the Baby Joy Joy YouTube channel, integrating animation and interaction.  
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/Jack.mp4.mp4)
+### Baby Joy Joy – Musical Instruments — *Unity | 2D Educational Game*  
+- Interactive 2D educational game designed to introduce **musical instruments** to young learners.  
+- Emphasizes **audio-visual feedback**, touch-based interaction, and child-friendly UI/UX principles.
+[App Listing](https://joy-joy-musical-instruments.updatestar.com/)
+
+### Baby Joy Joy – Jack in the Box — *Unity | 2D Educational Game (iOS)*  
+- iOS-based 2D educational game built in Unity, focused on **cause-and-effect learning** through playful interaction.  
+- Designed for **engagement, repetition, and intuitive input** tailored to early learners.
+[App Listing](https://joy-joy-jack-in-the-box-ios.soft112.com/)
 
 ### Match the Card — Unity | 2D Puzzle  
 - Designed and implemented a memory card game with responsive UI and smooth animations.  
