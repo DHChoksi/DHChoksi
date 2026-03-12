@@ -12,7 +12,8 @@
 
 ## About Me
 
-**Gameplay Engineer**, **Technical Game Designer** and **XR Developer** with hands-on experience building **interactive gameplay systems** and **immersive XR applications** using **Unity and Unreal Engine** across **PC, mobile, and VR platforms**. Specialized in **C# gameplay programming, XR interactions, AI-driven mechanics, multiplayer systems, and performance optimization**, with a strong QA foundation that enables early identification of gameplay issues and delivery of **stable, production-ready builds**. Experienced in collaborating with **cross-functional teams** (engineering, design, research, and QA) to develop **scalable systems** for enterprise XR training, research-driven VR gameplay, and real-time interactive simulations.
+I am a **Gameplay Engineer**, **Technical Game Designer**, and **XR Developer** with hands-on experience building interactive gameplay systems and immersive XR applications using **Unity and Unreal Engine** across PC, mobile, and VR platforms. Specialized in **C# gameplay programming, XR interactions, AI-driven mechanics, multiplayer systems, and performance optimization**, with a strong QA foundation that enables early identification of gameplay issues and delivery of stable, production-ready builds. Experienced in collaborating with cross-functional teams (engineering, design, research, and QA) to develop scalable systems for enterprise XR training, research-driven VR gameplay, and real-time interactive simulations.
+
 
 ---
 
