@@ -89,19 +89,20 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Extended Reality (XR / VR / MR)
 
-## 🛠 Featured Projects (In-Progress)
+### MR Shared Experience & Spatial Colocation — *Unity | Networking & Shared Space* `In-Progress`*
+**Tech:** Unity, Meta SDK, Photon Fusion 2, Shared Spatial Anchors
+- I developed a robust **Custom Colocation Engine** (`ColocationManager`) to facilitate seamless local spatial synchronization between multiple headsets in a shared physical environment.
+- I created a specialized **Alignment Architecture** using a custom `AlignmentManager` that utilizes mathematical logic to align the virtual `OVRCameraRig` with shared physical coordinates via spatial anchors.
+- I implemented **Networking & Discovery Logic** using asynchronous tasks to manage session advertising and discovery, ensuring low-latency anchor loading across a distributed network.
+- **Industry Application:** Designed for multi-user industrial training and collaborative digital twin inspection.
 
-### 🔗 [MR Shared Experience & Spatial Colocation](https://github.com/DHChoksi/MRSharedExp)
-**Tech:** Unity, Meta SDK, Photon Fusion 2, Shared Spatial Anchors.
-- **Custom Colocation Engine:** Developed a robust `ColocationManager` to handle local spatial synchronization between multiple headsets.
-- **Alignment Architecture:** Created a custom `AlignmentManager` that mathematically aligns the virtual `OVRCameraRig` to shared physical coordinates.
-- **Networking:** Implemented session advertising and discovery logic using asynchronous tasks for low-latency anchor loading.
 
-### 🦴 [Experimental Passthrough Body Tracking](https://github.com/DHChoksi/Body-Tracking-MR-Passthrough)
-**Tech:** Unity Sentis (ONNX), MediaPipe, Meta Passthrough API.
-- **Neural Network Integration:** Built a real-time pose estimation pipeline using **Unity Sentis** to run MediaPipe ONNX models locally on-headset.
-- **Spatial Visualization:** Developed a `SkeletonVisualizer` mapping 33 viewport joints to 3D world space using raycast-based depth fallback.
-- **Sensor Fusion:** Combined raw passthrough feeds with spatial camera poses for 1:1 scale virtual skeletons.
+### Experimental Passthrough Body Tracking — *Unity | AI & Computer Vision* `In-Progress`*
+**Tech:** Unity Sentis (ONNX), MediaPipe, Meta Passthrough API, OpenXR
+- I built a **Real-Time Pose Estimation Pipeline** using **Unity Sentis** to execute MediaPipe ONNX models locally on the headset, eliminating the need for external cloud processing.
+- I developed a **Spatial Visualization System** (`SkeletonVisualizer`) that maps 33 viewport joints to 3D world space using a custom raycast-based depth fallback system.
+- I integrated **Sensor Fusion** techniques, combining raw passthrough camera feeds with spatial camera poses to generate 1:1 scale virtual skeletons within the user's physical environment.
+- **Industry Application:** Focused on ergonomics analysis and hands-free gesture control for smart manufacturing.
 
  ### Enterprise MR & VR Training Simulations — *Unity | XR Training Systems*  
 - Designed and developed **two immersive VR and Mixed Reality (MR) training simulations prototypes** in Unity for operational staff, supporting real-world learning and onboarding use cases.  
