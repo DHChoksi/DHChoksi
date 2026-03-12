@@ -44,8 +44,14 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 ## Experience
 
+### Lead XR Consultant 
+**Cal Poly Pomona** - Remote, CA | Jun 2025 – Present
+- Leading R&D for an **AI/ML-based VR Smart Manufacturing project**, integrating predictive data models into immersive workspaces.
+- Developing high-fidelity **VR flight simulators** for research and training, focusing on aerodynamic accuracy and control mapping.
+- Investigating **VR Sickness (VIMS)** through a master's thesis, currently preparing for publication. The study establishes industry comfort standards by analyzing locomotion mechanics (jet-packing, web-swinging, free locomotion).
+
 ### Technical Game Designer  
-**Elite Neuro** — Remote, CA | Jun 2025 – Present  
+**Elite Neuro** — Remote, CA | Jun 2025 – Jan 2026  
 - **Developed and optimized interactive VR gameplay systems** in Unity using C#, focusing on performance, scalability, and immersive interaction design for cognitive training applications.  
 - **Integrated and optimized 3D assets, lighting, and rendering pipelines**, improving runtime stability and visual clarity across multiple VR form factors.  
 - **Collaborated with cross-functional teams** (engineers, designers, researchers) to prototype and iterate on XR modules, incorporating user feedback to improve interaction flow and usability.  
@@ -82,6 +88,20 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ## Projects
 
 ## Extended Reality (XR / VR / MR)
+
+## 🛠 Featured Projects (In-Progress)
+
+### 🔗 [MR Shared Experience & Spatial Colocation](https://github.com/DHChoksi/MRSharedExp)
+**Tech:** Unity, Meta SDK, Photon Fusion 2, Shared Spatial Anchors.
+- **Custom Colocation Engine:** Developed a robust `ColocationManager` to handle local spatial synchronization between multiple headsets.
+- **Alignment Architecture:** Created a custom `AlignmentManager` that mathematically aligns the virtual `OVRCameraRig` to shared physical coordinates.
+- **Networking:** Implemented session advertising and discovery logic using asynchronous tasks for low-latency anchor loading.
+
+### 🦴 [Experimental Passthrough Body Tracking](https://github.com/DHChoksi/Body-Tracking-MR-Passthrough)
+**Tech:** Unity Sentis (ONNX), MediaPipe, Meta Passthrough API.
+- **Neural Network Integration:** Built a real-time pose estimation pipeline using **Unity Sentis** to run MediaPipe ONNX models locally on-headset.
+- **Spatial Visualization:** Developed a `SkeletonVisualizer` mapping 33 viewport joints to 3D world space using raycast-based depth fallback.
+- **Sensor Fusion:** Combined raw passthrough feeds with spatial camera poses for 1:1 scale virtual skeletons.
 
  ### Enterprise MR & VR Training Simulations — *Unity | XR Training Systems*  
 - Designed and developed **two immersive VR and Mixed Reality (MR) training simulations prototypes** in Unity for operational staff, supporting real-world learning and onboarding use cases.  
