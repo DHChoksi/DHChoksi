@@ -105,14 +105,6 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 - Integrated **Sensor Fusion** techniques, combining raw passthrough camera feeds with spatial camera poses to generate 1:1 scale virtual skeletons within the user's physical environment.
 - **Industry Application:** Focused on ergonomics analysis and hands-free gesture control for smart manufacturing.
 [Source Files](https://github.com/DHChoksi/Body-Tracking-MR-Passthrough)
-
- ### Enterprise MR & VR Training Simulations — *Unity | XR Training Systems*  
-- Designed and developed **two immersive VR and Mixed Reality (MR) training simulations prototypes** in Unity for operational staff, supporting real-world learning and onboarding use cases.  
-- Implemented **passthrough-based MR experiences**, enabling users to safely interact with virtual training content while maintaining awareness of the physical environment.  
-- Built interaction systems using **hand tracking, controller tracking, and gesture-based input**, supporting multiple XR interaction modes across devices with targeted platforms quest 3, 3s and Pro.  
-- Integrated **physics-based interactions, spatial UI, and guided task flows** to reinforce procedural learning and skill retention.  
-- Collaborated with **cross-functional teams** (educators, designers, engineers, and QA) to translate training requirements into **scalable, maintainable XR applications**.  
-[Source Files](https://github.com/DHChoksi/VRFunBoomer)
   
 ### Intergalactic Ranger (IGR) — *Unity | VR Research Game*  
 - Research-driven VR gameplay experience developed as part of a **graduate thesis**.  
