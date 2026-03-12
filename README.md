@@ -45,7 +45,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ## Experience
 
 ### Lead XR Consultant 
-**Cal Poly Pomona** - Remote, CA | Jun 2025 – Present
+**Cal Poly Pomona** - Remote, CA | Jan 2026 – Present
 - Leading R&D for an **AI/ML-based VR Smart Manufacturing project**, integrating predictive data models into immersive workspaces.
 - Developing high-fidelity **VR flight simulators** for research and training, focusing on aerodynamic accuracy and control mapping.
 - Investigating **VR Sickness (VIMS)** through a master's thesis, currently preparing for publication. The study establishes industry comfort standards by analyzing locomotion mechanics (jet-packing, web-swinging, free locomotion).
@@ -91,17 +91,17 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ### MR Shared Experience & Spatial Colocation — *Unity | Networking & Shared Space* `In-Progress`*
 **Tech:** Unity, Meta SDK, Photon Fusion 2, Shared Spatial Anchors
-- I developed a robust **Custom Colocation Engine** (`ColocationManager`) to facilitate seamless local spatial synchronization between multiple headsets in a shared physical environment.
-- I created a specialized **Alignment Architecture** using a custom `AlignmentManager` that utilizes mathematical logic to align the virtual `OVRCameraRig` with shared physical coordinates via spatial anchors.
-- I implemented **Networking & Discovery Logic** using asynchronous tasks to manage session advertising and discovery, ensuring low-latency anchor loading across a distributed network.
+- Developed a robust **Custom Colocation Engine** (`ColocationManager`) to facilitate seamless local spatial synchronization between multiple headsets in a shared physical environment.
+- Created a specialized **Alignment Architecture** using a custom `AlignmentManager` that utilizes mathematical logic to align the virtual `OVRCameraRig` with shared physical coordinates via spatial anchors.
+- Implemented **Networking & Discovery Logic** using asynchronous tasks to manage session advertising and discovery, ensuring low-latency anchor loading across a distributed network.
 - **Industry Application:** Designed for multi-user industrial training and collaborative digital twin inspection.
 
 
 ### Experimental Passthrough Body Tracking — *Unity | AI & Computer Vision* `In-Progress`*
 **Tech:** Unity Sentis (ONNX), MediaPipe, Meta Passthrough API, OpenXR
-- I built a **Real-Time Pose Estimation Pipeline** using **Unity Sentis** to execute MediaPipe ONNX models locally on the headset, eliminating the need for external cloud processing.
-- I developed a **Spatial Visualization System** (`SkeletonVisualizer`) that maps 33 viewport joints to 3D world space using a custom raycast-based depth fallback system.
-- I integrated **Sensor Fusion** techniques, combining raw passthrough camera feeds with spatial camera poses to generate 1:1 scale virtual skeletons within the user's physical environment.
+- Built a **Real-Time Pose Estimation Pipeline** using **Unity Sentis** to execute MediaPipe ONNX models locally on the headset, eliminating the need for external cloud processing.
+- Developed a **Spatial Visualization System** (`SkeletonVisualizer`) that maps 33 viewport joints to 3D world space using a custom raycast-based depth fallback system.
+- Integrated **Sensor Fusion** techniques, combining raw passthrough camera feeds with spatial camera poses to generate 1:1 scale virtual skeletons within the user's physical environment.
 - **Industry Application:** Focused on ergonomics analysis and hands-free gesture control for smart manufacturing.
 
  ### Enterprise MR & VR Training Simulations — *Unity | XR Training Systems*  
