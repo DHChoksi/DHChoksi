@@ -159,7 +159,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ###  Infinite Road Prototype — Unity 3D | WebGL
  - prototype featuring a procedurally generated infinite road loop engineered from scratch for seamless environment looping.
  - Implements custom 3D car physics, dynamic obstacle avoidance, and performance-optimized object spawning for browser-based platforms.
-[App Listing]([https://dhchoksi.itch.io/prototyope1])
+[App Listing](https://dhchoksi.itch.io/prototyope1)
 
 ### Baby Joy Joy – Musical Instruments — *Unity | 2D Educational Game*  
 - Interactive 2D educational game designed to introduce **musical instruments** to young learners.  
