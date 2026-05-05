@@ -212,7 +212,54 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 [Source Files](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
 ---
+## Level Design Showcase
 
+A series of stylized 3D environments and gameplay-driven level designs built in **Unity 6.3 LTS (DX12)**, featuring real-time lighting, dynamic weather systems, destructible props, and combat-centric layouts.
+
+### Chinatown Urban Brawler — *Unity 6 | Street Fighter Style Fighting Stage*
+- High-contrast Chinatown night view combining traditional lanterns with modern neon-lit corridors.
+- Real-time rain effects, puddle reflections, and strategically placed destructible elements that enhance combat feedback.
+- Rendered in Unity 6.3 LTS using DX12 for advanced lighting and material response.
+[Game View](https://youtu.be/x-ZWEs4UMNs) | 
+[Scene View](https://youtu.be/UoxqYiMVSLw) | 
+[Scene Walkthrough](https://youtu.be/yTuCdtS-pwE) | 
+[Full Showcase](https://youtu.be/_3BjGpXrytM)
+
+### Rust & Rivets — *Unity 6 | Vehicle Customization Garage & Battle Arena*
+- Dual-environment showcase highlighting the technical and aesthetic transition between a safe-zone Garage and a high-stakes Battle Arena.
+- **Garage:** Functional customization hub with an industrial, *Mad Max*–inspired aesthetic.
+- **Arena:** Combat-focused layout featuring strategic cover, varied terrain, and clear sightlines for vehicle-based brawling.
+[Scene View](https://youtu.be/y5ichgBUt1E) | 
+[Game Showcase](https://youtu.be/m_jfJ7bBw1E)
+
+### Knockout City Inspired Environment — *Unity 6 | Stylized Urban Action*
+- High-energy, vibrant stylized city environment built for fast-paced arena action.
+- Focus on layout flow and lighting to support quick traversal, verticality, and dynamic engagements in Unity 6.
+[Level Design Preview](https://youtu.be/t5m-8x8xO_A) | 
+[Urban Showcase](https://youtu.be/vE1QI_WgpdA)
+
+### ZombieSaga 3D — Sci-Fi Lab — *Unity 6 | Survival Horror Environment*
+- High-tech modular sci-fi laboratory rendered across two distinct lighting states for the same level.
+- **Day Camp:** High-visibility combat area with full-exposure lighting, designed for prototype playtesting and combat clarity.
+- **Blackout (Night View):** Cinematic high-contrast lighting with emergency-power aesthetics, building a claustrophobic atmosphere for a sci-fi facility gone dark.
+[Day Camp – Game View](https://youtu.be/BuLJIehrrs4) | 
+[Blackout – Night View](https://youtu.be/ght07hzULhA)
+
+### Westland Rumble — *Unity 6 | Top-Down Tactical Brawler*
+- Dusty top-down brawler map balancing narrow alleyway ambushes with wide-open plaza encounters.
+- **Dynamic Cover Systems:** Strategically placed obstacles for tactical combat positioning.
+- **Verticality in Top-Down:** Elevation used to create vantage points and asymmetrical map balance.
+- **Environmental Storytelling:** Gritty, lived-in asset placement built and tested in Unity 6 for seamless player flow.
+[Scene View](https://youtu.be/bzfddx8U8zA) | 
+[Game View](https://youtu.be/dl10pUQPrT8) | 
+[Full Walkthrough](https://youtu.be/FSJzWY2yNS4)
+
+###  Infinite Road Prototype — Unity 3D | WebGL
+ - prototype featuring a procedurally generated infinite road loop engineered from scratch for seamless environment looping.
+ - Implements custom 3D car physics, dynamic obstacle avoidance, and performance-optimized object spawning for browser-based platforms.
+[App Listing](https://dhchoksi.itch.io/prototyope1)
+
+---
 ## Tech Stack & Tools
 
 ### Programming Languages & Game Engines
