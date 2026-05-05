@@ -254,6 +254,14 @@ A series of stylized 3D environments and gameplay-driven level designs built in 
 [Game View](https://youtu.be/dl10pUQPrT8) | 
 [Full Walkthrough](https://youtu.be/FSJzWY2yNS4)
 
+### Windmill Warfare — *Unity 6 | Stylized Mini-Brawler Arena*
+- Vibrant, high-energy multiplayer battleground designed for top-down action, featuring a picturesque windmill farm set against lush toony terrain.
+- Layout optimized for short-statured character models, with clear sightlines and tactical movement around stylized environmental hazards.
+- Built in Unity 6 with the **Brute Force – Grass** shader to achieve a lush, interactive *toony* look while maintaining high frame rates for top-down gameplay.
+[Scene View](https://youtu.be/gOtEjJqB_IM) | 
+[Game View](https://www.youtube.com/watch?v=QG5LCj4uvJk) | 
+[Brute Force Grass Shader Showcase](https://youtu.be/uOq_uNNzCqE)
+
 ###  Infinite Road Prototype — Unity 3D | WebGL
  - prototype featuring a procedurally generated infinite road loop engineered from scratch for seamless environment looping.
  - Implements custom 3D car physics, dynamic obstacle avoidance, and performance-optimized object spawning for browser-based platforms.
