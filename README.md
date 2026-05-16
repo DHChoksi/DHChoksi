@@ -33,13 +33,14 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ## Graduate Thesis (VR Research)
 
 ### **Evaluating Motion Sickness Factors in VR: The Role of Navigation, Interaction, and Environmental Effects**  
-*Master’s Thesis — California State Polytechnic University, Pomona (2025)*
+*Master’s Thesis — California State Polytechnic University, Pomona (2025)*  
+**Status: Submitted for ICVARS 2026**
 
 - Research-focused VR study analyzing **motion sickness, comfort, and immersion** across different **locomotion mechanics** (jet packing, web-swinging, free locomotion) and **interaction complexity**.
 - Developed **two custom, space-themed, narrative-driven VR gameplay prototypes (Intergalactic Ranger) in Unity (URP) and evaluated them against a commercial VR benchmark (Swarm VR) using Meta Quest 3 / 3S.**
 - Conducted a controlled user study with **33 participants**, applying **VRSQ and MSQ** metrics to derive **design guidelines for comfortable, immersive VR experiences**.
 - Findings contribute to **best practices for VR gameplay, training simulations, and immersive system design**.
-**[Download Full Thesis (PDF)](https://github.com/DHChoksi/AssetsForPortfolio/blob/main/Motion_Sickness_Master_Thesis__Final.pdf)**
+**[Read via CSU ScholarWorks](https://scholarworks.calstate.edu/concern/theses/g158bt11c)** | **[Download Full Thesis (PDF)]**
 
 ---
 ## Experience
