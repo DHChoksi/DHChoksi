@@ -14,7 +14,6 @@
 
 I am a **Gameplay Engineer**, **Technical Game Designer**, and **XR Developer** with hands-on experience building interactive gameplay systems and immersive XR applications using **Unity and Unreal Engine** across PC, mobile, and VR platforms. Specialized in **C# gameplay programming, XR interactions, AI-driven mechanics, multiplayer systems, and performance optimization**, with a strong QA foundation that enables early identification of gameplay issues and delivery of stable, production-ready builds. Experienced in collaborating with cross-functional teams (engineering, design, research, and QA) to develop scalable systems for enterprise XR training, research-driven VR gameplay, and real-time interactive simulations.
 
-
 ---
 
 > "Designing experiences is more than code, it's about bringing imagination to life."
@@ -212,6 +211,30 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 [Source Files](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
 ---
+
+## Technical Documentation & Game Design (GDDs)
+
+A collection of comprehensive Game Design Documents (GDD) and technical system architectures highlighting my ability to define core gameplay loops, mechanic frameworks, narrative structures, and system modeling.
+
+*   **[InterGalactic Ranger (VR) - GDD](https://docs.google.com/document/d/11EMMOTHBHajpAPiDifrub-HXM509em2UVjubz8NgdXE/edit?usp=sharing)**  
+    Thorough VR game design document outlining zero-gravity physics-based locomotion, UI/UX diegetic systems, debris classification mechanics, and object-component coupling coding rules.
+*   **[Hazel and the Magic Garden - GDD](https://docs.google.com/document/d/1O8cGmAA_OQkh7YLOx2gMQBpskqddAgjQTKNaDhk1uC4/edit?usp=sharing)**  
+    Comprehensive design document for a 2.5D side-scrolling puzzle adventure mobile game, covering core gameplay loops, narrative architecture, survival mechanics, and detailed monetization strategies.
+*   **[The Chor Police - GDD](https://docs.google.com/document/d/198iB7x971o71xap5Zm_Xh_aq1PmfWSQUfhAw90UXMhk/edit?usp=sharing)**  
+    Game design document for a fast-paced 2D asymmetric multiplayer platformer (cops and robbers style), outlining infiltration phases, multi-tiered vertical level layouts, tactical gadgets, and matchmaking flows.
+*   **[Project Seesaw Run - GDD](https://docs.google.com/document/d/1Prza_G4lZnlw3pgdid3IBqJdDUMeWVJMJoy-YvDbmmU/edit?usp=sharing)**  
+    Concept and technical framework for a 3D physics-based isometric runner game, focusing on dynamic weight-based seesaw mechanics, UI/UX specifications, environmental hazards, and hybrid-casual market monetization analysis.
+*   **[Baby Joy Joy: Imaginary World - GDD](https://docs.google.com/document/d/1EFUNYoXhdZ6SzgQfpycT2shH-NaMkI3TmUUqLLZ7Qb0/edit?usp=sharing)**  
+    Design document for a 3D side-scrolling platformer focused on musical charm, environmental puzzles, and engaging animal rescue missions designed specifically for children.
+*   **[Dan The Man Boss Fights - GDD](https://docs.google.com/document/d/18o8guDmHZJuD21yhdgyIBK8xjlFT-GESC-SlFLx2bB8/edit?usp=sharing)**  
+    Detailed technical breakdown of boss fight mechanics, multi-stage AI behaviors, and specific attacking patterns/hit-points for a retro 2D side-scrolling action platformer.
+*   **[Monster Halloween Game - GDD](https://docs.google.com/document/d/13fuPVm826sf5uqheiqn7yr3xsDaO37ZVsrcZ5BVPMxE/edit?usp=sharing)**  
+    Design document for a kids' 2D Android game featuring a dual mini-game loop: timing-based trick-or-treat adventure mechanics and a creative Halloween decoration crafting system.
+*   **[Moodify Music App - System Architecture & UML](https://docs.google.com/document/d/1rDJeXs3-v29ts9pO89HdgD8qkjZMQjqLYTdB5Ab0Z9s/edit?usp=sharing)**  
+    System documentation detailing system actors, goals, use cases, class attributes, and PlantUML activity diagrams for an emotion-based music player with offline saving functionalities.
+
+---
+
 ## Level Design Showcase
 
 A series of stylized 3D environments and gameplay-driven level designs built in **Unity 6.3 LTS (DX12)**, featuring real-time lighting, dynamic weather systems, destructible props, and combat-centric layouts.
