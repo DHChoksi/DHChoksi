@@ -43,6 +43,27 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 **[Read via CSU ScholarWorks](https://scholarworks.calstate.edu/concern/theses/g158bt11c)** | **[Download Full Thesis (PDF)]**
 
 ---
+
+### Fortune and Luck — *HTML/JS | Slot Game*
+- Browser-based slot machine game featuring **custom reel mechanics, win evaluation logic, and animated symbol feedback**.
+- Built with a focus on **iGaming design patterns**, variable reward systems, and polished UI/UX for real-money-style gameplay feel.
+[Source Code](https://github.com/DHChoksi/Fortune-And-Luck-Slot-game.git) | [Play Live](https://fortune-and-luck-slot-game.vercel.app/)
+
+---
+
+### AI Symbol Spritesheet Generator — *Python | AI Tool*
+- Custom AI-powered tool that generates **game-ready symbol spritesheets** from text prompts, streamlining the asset pipeline for slot and casual game development.
+- Automates **symbol variation generation, layout composition, and export formatting**, reducing manual art iteration time.
+[Source Code](https://github.com/DHChoksi/AI_SymbolSpritesheet_Generator.git)
+
+---
+
+## Certifications
+
+- **iGaming Foundation Certificate** — [View Certificate](https://github.com/DHChoksi/AssetsForPortfolio/blob/main/files/iGaming%20Foundations%20casino%20games%20certification%20Udemy.pdf)
+- **SensAI Hackathon Certificate** — [View Certificate](https://github.com/DHChoksi/AssetsForPortfolio/blob/main/files/SensAI%20Hackthon%20certificate.pdf)
+  
+---
 ## Experience
 
 ### Lead XR Consultant 
