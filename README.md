@@ -44,20 +44,6 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ---
 
-### Fortune and Luck — *HTML/JS | Slot Game*
-- Browser-based slot machine game featuring **custom reel mechanics, win evaluation logic, and animated symbol feedback**.
-- Built with a focus on **iGaming design patterns**, variable reward systems, and polished UI/UX for real-money-style gameplay feel.
-[Source Code](https://github.com/DHChoksi/Fortune-And-Luck-Slot-game.git) | [Play Live](https://fortune-and-luck-slot-game.vercel.app/)
-
----
-
-### AI Symbol Spritesheet Generator — *Python | AI Tool*
-- Custom AI-powered tool that generates **game-ready symbol spritesheets** from text prompts, streamlining the asset pipeline for slot and casual game development.
-- Automates **symbol variation generation, layout composition, and export formatting**, reducing manual art iteration time.
-[Source Code](https://github.com/DHChoksi/AI_SymbolSpritesheet_Generator.git)
-
----
-
 ## Certifications
 
 - **iGaming Foundation Certificate** — [View Certificate](https://github.com/DHChoksi/AssetsForPortfolio/blob/main/files/iGaming%20Foundations%20casino%20games%20certification%20Udemy.pdf)
@@ -177,6 +163,12 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 
 ## Other Games (Unity/HTML/WebGL)
+
+### Fortune and Luck — *HTML/JS | Slot Game*
+- Browser-based slot machine game featuring **custom reel mechanics, win evaluation logic, and animated symbol feedback**.
+- Built with a focus on **iGaming design patterns**, variable reward systems, and polished UI/UX for real-money-style gameplay feel.
+[Source Code](https://github.com/DHChoksi/Fortune-And-Luck-Slot-game.git) | [Play Live](https://fortune-and-luck-slot-game.vercel.app/)
+
 ###  Infinite Road Prototype — Unity 3D | WebGL
  - prototype featuring a procedurally generated infinite road loop engineered from scratch for seamless environment looping.
  - Implements custom 3D car physics, dynamic obstacle avoidance, and performance-optimized object spawning for browser-based platforms.
@@ -219,10 +211,10 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Other Projects
 
-### Moodify (BeatFusion) — *Java | AI-Driven Music Application*  
-- Java-based music application exploring **mood-aware audio processing and interaction**.  
-- Focuses on syncing **user experience with dynamic audio behavior**.
-[Source Files](https://github.com/DHChoksi/Moodify)
+### AI Symbol Spritesheet Generator — *Python | AI Tool*
+- Custom AI-powered tool that generates **game-ready symbol spritesheets** from text prompts, streamlining the asset pipeline for slot and casual game development.
+- Automates **symbol variation generation, layout composition, and export formatting**, reducing manual art iteration time.
+[Source Code](https://github.com/DHChoksi/AI_SymbolSpritesheet_Generator.git)
 
 ### Obesity Classification — Python | Machine Learning  
 - Developed a classification model using biometric and behavioral data to predict obesity levels.  
@@ -232,6 +224,10 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 - Built a responsive MEAN stack web app with real-time chat and video support for virtual consultations.  
 [Source Files](https://drive.google.com/file/d/1mk20mi0vssU5rdc3f5SkQCWBS01sBB3g/view?usp=sharing)
 
+### Moodify (BeatFusion) — *Java | AI-Driven Music Application*  
+- Java-based music application exploring **mood-aware audio processing and interaction**.  
+- Focuses on syncing **user experience with dynamic audio behavior**.
+[Source Files](https://github.com/DHChoksi/Moodify)
 ---
 
 ## Technical Documentation & Game Design (GDDs)
