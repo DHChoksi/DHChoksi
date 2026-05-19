@@ -233,7 +233,8 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ## Technical Documentation & Game Design (GDDs)
 
 A collection of comprehensive Game Design Documents (GDD) and technical system architectures highlighting my ability to define core gameplay loops, mechanic frameworks, narrative structures, and system modeling.
-
+*   **[Fortune & Luck – Slot Game GDD & Documentation](https://docs.google.com/document/d/1ZZ-ZLjT-DjiyNLu4OoM7hFqyoEI6O0eNJkHR7BEfAgk/edit?usp=sharing)**  
+    Full design and technical documentation for a 3-reel mechanical-stepper-style slot set in Imperial Chinese fortune theming. Covers symbol math, pay table design, bonus trigger logic, and UX flow — developed as part of the AGS Game Innovation Fellowship candidate exercise.
 *   **[InterGalactic Ranger (VR) - GDD](https://docs.google.com/document/d/11EMMOTHBHajpAPiDifrub-HXM509em2UVjubz8NgdXE/edit?usp=sharing)**  
     Thorough VR game design document outlining zero-gravity physics-based locomotion, UI/UX diegetic systems, debris classification mechanics, and object-component coupling coding rules.
 *   **[Hazel and the Magic Garden - GDD](https://docs.google.com/document/d/1O8cGmAA_OQkh7YLOx2gMQBpskqddAgjQTKNaDhk1uC4/edit?usp=sharing)**  
