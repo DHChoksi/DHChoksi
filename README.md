@@ -97,7 +97,18 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Extended Reality (XR / VR / MR)
 
-### MR Shared Experience & Spatial Colocation — *Unity | Networking & Shared Space* `In-Progress`*
+## Extended Reality (XR / VR / MR)
+
+### SolarSystemEDU — *Unity | MR Multiplayer Educational Experience*
+**Tech:** Unity 6 (URP), OpenXR + Meta, Netcode for GameObjects, Unity Relay/Lobby, XRI, Meta Passthrough
+- Multiplayer mixed-reality solar system for Meta Quest 3 / 3S / Pro supporting **up to 15 players** in a shared room, with planets anchored to physical space through passthrough via shared spatial anchors.
+- Integrated **NOVA**, a fully voice-driven space-only AI astronomer (Groq Whisper STT → Google Gemini Flash → Groq PlayAI/Orpheus TTS), with press-and-hold voice input, silence/length safety gates, and on-panel answers.
+- Built a **data-driven SolarSystemController** that auto-wires the full planet hierarchy and orbit rings at runtime from a single `SolarSystemConfig` ScriptableObject, with runtime pause, global speed, and orbit-visibility controls.
+- Implemented **Learning Mode** — pause orbital motion, then grab/point at any planet to surface its `PlanetData` detail card (size, orbital facts, description).
+[Watch Video](https://drive.google.com/file/d/1dWXnYlUNteF-CNZKlJIWz5HTO6tj86o_/view?usp=sharing) | 
+[Source Files](https://github.com/DHChoksi/SolarSystemEDU)
+
+### MR Shared Experience & Spatial Colocation — *Unity | Networking & Shared Space*
 **Tech:** Unity, Meta SDK, Photon Fusion 2, Shared Spatial Anchors
 - Developed a robust **Custom Colocation Engine** (`ColocationManager`) to facilitate seamless local spatial synchronization between multiple headsets in a shared physical environment.
 - Created a specialized **Alignment Architecture** using a custom `AlignmentManager` that utilizes mathematical logic to align the virtual `OVRCameraRig` with shared physical coordinates via spatial anchors.
@@ -111,6 +122,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 - Developed a **Spatial Visualization System** (`SkeletonVisualizer`) that maps 33 viewport joints to 3D world space using a custom raycast-based depth fallback system.
 - Integrated **Sensor Fusion** techniques, combining raw passthrough camera feeds with spatial camera poses to generate 1:1 scale virtual skeletons within the user's physical environment.
 - **Industry Application:** Focused on ergonomics analysis and hands-free gesture control for smart manufacturing.
+[Watch Video](https://drive.google.com/file/d/1_Tn62XJOqNGq2nvHV-auVqDcZBNCkrka/view?usp=sharing) | 
 [Source Files](https://github.com/DHChoksi/Body-Tracking-MR-Passthrough)
   
 ### Intergalactic Ranger (IGR) — *Unity | VR Research Game*  
@@ -125,20 +137,26 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ### VR Fun Boomer — *Unity | VR Gameplay*  
 - Experimental VR project focusing on **interactive mechanics and player feedback loops**.  
 - Emphasizes **rapid prototyping** and VR interaction design.
+[Watch Video](https://drive.google.com/file/d/1h95OI2gwz9HsdeQ4G3KbDtqPGNXZ1GQX/view?usp=sharing) | 
 [Source Files](https://github.com/DHChoksi/VRFunBoomer)
 
 ### Gorillazila — *Unity | Mixed Reality (MR)*  
 - Mixed Reality experience combining **real-world spatial awareness with virtual gameplay elements**.  
 - Explores **MR interaction, spatial anchoring, and immersive gameplay** blending physical and digital environments.
+[Watch Video](https://drive.google.com/file/d/1r_ocjIlC13iCPssrBUvbBkcXYfk2swLV/view?usp=sharing) | 
 [Source Code](https://github.com/DHChoksi/Gorillazila)
-
-### Floor Is Lava – Treasure Hunt — *Unity | MR Multiplayer*  
-- Multiplayer MR experience featuring **environmental hazards, collaborative gameplay, and spatial navigation**.  
-- Designed to test **player coordination and shared mixed-reality spaces**.
-[Source Code](https://github.com/DHChoksi/FloorIsLavaTreasureHunt)
-
 ---
 
+## Asset Pipeline & Scanning Documentation
+
+A collection of technical documentation covering 3D scanning, photogrammetry, and optimization workflows for XR-ready asset production.
+
+- **Artec Leo Scanning Documentation** — Field capture workflow for the Artec Leo handheld LiDAR scanner: scan setup, coverage strategy, real-time tracking, and best practices for capturing clean, production-ready meshes of real-world objects and environments.
+[View Documentation](https://docs.google.com/presentation/d/1NePmquQ9C5z55N8WVuES-Xj5-n1HYhb0/edit?usp=sharing&ouid=104079898849512125103&rtpof=true&sd=true)
+- **Artec Studio Documentation** — Post-processing pipeline in Artec Studio: registration, global alignment, fusion, mesh cleanup, hole-filling, texture mapping, and export of optimized assets for downstream use.
+- **Blender Optimization** — Mesh optimization workflow for XR: retopology and decimation, UV unwrapping, texture baking, LOD generation, and poly-budget tuning to deliver high-fidelity scanned assets that hold frame rate on standalone Quest hardware.
+[View Documentation](https://drive.google.com/file/d/1930lXCcLn25KKiSzcwQeOLHcwxl_ZN_T/view?usp=sharing)
+---
 ## 3D Games & AI Systems
 
 ### Maze Runner AI FPS — *Unity | 3D FPS with Custom AI*  
