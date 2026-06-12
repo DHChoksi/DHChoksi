@@ -97,8 +97,6 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 
 ## Extended Reality (XR / VR / MR)
 
-## Extended Reality (XR / VR / MR)
-
 ### SolarSystemEDU — *Unity | MR Multiplayer Educational Experience*
 **Tech:** Unity 6 (URP), OpenXR + Meta, Netcode for GameObjects, Unity Relay/Lobby, XRI, Meta Passthrough
 - Multiplayer mixed-reality solar system for Meta Quest 3 / 3S / Pro supporting **up to 15 players** in a shared room, with planets anchored to physical space through passthrough via shared spatial anchors.
