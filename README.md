@@ -173,7 +173,7 @@ A collection of technical documentation covering 3D scanning, photogrammetry, an
 ### Underworld’s Downfall — *Unity | 3D Top-Down Shooter*  
 - Procedural top-down shooter with **dynamic level generation, combat systems, and visual effects**.  
 - Designed for **replayability and system-driven gameplay flow**.
-[Watch Video](https://raw.githubusercontent.com/DHChoksi/Portfolio/main/Assets/under.mp4) | 
+[Watch Video](https://www.youtube.com/watch?v=ShGJ4D9dafM) | 
 [Source Files](https://github.com/DHChoksi/Underworld_s_downfall)
 
 ---
