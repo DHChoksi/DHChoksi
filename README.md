@@ -281,7 +281,7 @@ A collection of comprehensive Game Design Documents (GDD) and technical system a
 
 A series of stylized 3D environments and gameplay-driven level designs built in **Unity 6.3 LTS (DX12)**, featuring real-time lighting, dynamic weather systems, destructible props, and combat-centric layouts.
 
-### Chinatown Urban Brawler — *Unity 6 | Street Fighter Style Fighting Stage*
+### Street Combat — *Unity 6 | Street Fighter Style Fighting Stage*
 - High-contrast Chinatown night view combining traditional lanterns with modern neon-lit corridors.
 - Real-time rain effects, puddle reflections, and strategically placed destructible elements that enhance combat feedback.
 - Rendered in Unity 6.3 LTS using DX12 for advanced lighting and material response.
@@ -289,6 +289,8 @@ A series of stylized 3D environments and gameplay-driven level designs built in 
 [Scene View](https://youtu.be/UoxqYiMVSLw) | 
 [Scene Walkthrough](https://youtu.be/yTuCdtS-pwE) | 
 [Full Showcase](https://youtu.be/_3BjGpXrytM)
+[Gameplay prototype Showcase](https://youtu.be/_3BjGpXrytM](https://youtu.be/TMbs2OJCLhA))
+
 
 ### Rust & Rivets — *Unity 6 | Vehicle Customization Garage & Battle Arena*
 - Dual-environment showcase highlighting the technical and aesthetic transition between a safe-zone Garage and a high-stakes Battle Arena.
