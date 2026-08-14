@@ -52,7 +52,7 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 ## Experience
 
-### Junior Programmer Analyst (Gameplay, XR simulations) 
+### Programmer Analyst (Gameplay, XR simulations) 
 **Code Pixel Breaker** - Atlanta, GA | July 2026 – July 2026  
 - Conducted comprehensive market research on emerging trends across gameplay mechanics, casino/iGaming, and XR simulations to inform high-potential product strategies and gameplay designs.
 - Authored detailed **technical documentation**, **Game Design Documents (GDDs)**, and **system architecture specifications** to ensure clear development guidelines and maintainable workflows.
