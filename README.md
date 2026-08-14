@@ -424,7 +424,6 @@ A series of stylized 3D environments and gameplay-driven level designs built in 
 
 **Email:** [dhchoksi.work1699@gmail.com](mailto:dhchoksi.work1699@gmail.com)  
 **LinkedIn:** [linkedin.com/in/dhchoksi](https://www.linkedin.com/in/dhchoksi)  
-**Resume:** [View Resume](https://docs.google.com/document/d/18h5sr3vMYYJeZB2gl_0Vna8HBhrN4Vm-F0o-W1PDjZY/edit?usp=sharing)
 
 ---
 
