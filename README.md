@@ -1,6 +1,6 @@
 <!-- Dhruvi H. Choksi | Game & VR Portfolio -->
 <h1 align="center">Dhruvi H. Choksi</h1>
-<h3 align="center"><i>Game Development | Extended Reality | Software Engineering</i></h3>
+<h3 align="center"><i>Game Development | Game Design | Extended Reality | Software Engineering</i></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VR%20Development-Immersive-blueviolet?style=flat-square&logo=unity" />
@@ -52,14 +52,21 @@ Bachelor of Engineering in Information Technology (2016 – 2020)
 ---
 ## Experience
 
+### Junior Programmer Analyst (Gameplay, XR simulations) 
+**Code Pixel Breaker** - Atlanta, GA | July 2026 – July 2026  
+- Conducted comprehensive market research on emerging trends across gameplay mechanics, casino/iGaming, and XR simulations to inform high-potential product strategies and gameplay designs.
+- Authored detailed **technical documentation**, **Game Design Documents (GDDs)**, and **system architecture specifications** to ensure clear development guidelines and maintainable workflows.
+- Designed, built, and tested interactive gameplay prototypes, rapidly iterating on mechanics and XR simulation features based on user feedback and team testing.
+- Translated client **creative vision** into actionable **technical requirements**, bridging the gap between non-technical stakeholders and cross-functional engineering, design, and QA teams.
+
 ### Lead XR Consultant 
-**Cal Poly Pomona** - Remote, CA | Jan 2026 – Present
+**Cal Poly Pomona** - Pomona, CA | Feb 2026 – July 2026  
 - Leading R&D for an **AI/ML-based VR Smart Manufacturing project**, integrating predictive data models into immersive workspaces.
 - Developing high-fidelity **VR flight simulators** for research and training, focusing on aerodynamic accuracy and control mapping.
 - Investigating **VR Sickness (VIMS)** through a master's thesis, currently preparing for publication. The study establishes industry comfort standards by analyzing locomotion mechanics (jet-packing, web-swinging, free locomotion).
 
 ### Technical Game Designer  
-**Elite Neuro** — Remote, CA | Jun 2025 – Jan 2026  
+**Elite Neuro** — Pasadena, CA | Jun 2025 – Jan 2026  
 - **Developed and optimized interactive VR gameplay systems** in Unity using C#, focusing on performance, scalability, and immersive interaction design for cognitive training applications.  
 - **Integrated and optimized 3D assets, lighting, and rendering pipelines**, improving runtime stability and visual clarity across multiple VR form factors.  
 - **Collaborated with cross-functional teams** (engineers, designers, researchers) to prototype and iterate on XR modules, incorporating user feedback to improve interaction flow and usability.  
